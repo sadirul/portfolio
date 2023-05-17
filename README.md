@@ -1,4 +1,4 @@
-# React Portfolio, multiple pages with dark mode
+<!-- # React Portfolio, multiple pages with dark mode
 
 ## a portfolio for developers
 
@@ -132,4 +132,4 @@ If you have any suggestions for how to improve this template, the ReadMe guide, 
 please don't hesitate to reach out -- I will always happily accept constructive feedback!
 
 °•. ✿ .•°
-"# portfolio" 
+"# portfolio"  -->
